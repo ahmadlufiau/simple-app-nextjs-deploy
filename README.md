@@ -6,7 +6,7 @@
 - [Dockerfile](https://github.com/ahmadlufiau/simple-app-nextjs-deploy/blob/main/Dockerfile)
 - [cicd.yml](https://github.com/ahmadlufiau/simple-app-nextjs-deploy/blob/main/.github/workflows/cicd.yml)
 
-# Additional
+## Additional
 - Nginx still manually config not using docker. Here example config in the server
 
 ```
